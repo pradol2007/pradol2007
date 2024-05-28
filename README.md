@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Meu nome e Laisla Nicoly Ribeiro Prado
+## Estou estudando na Alura 
+## Estou me desenvolvendo na linguagem JavaScript
+## Utilizo esse espaco para minha organizacao e compartilhamentos dos meus projetos desenvolvidos
 <!--
 **pradol2007/pradol2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
